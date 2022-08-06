@@ -67,9 +67,10 @@ const Posts = () => (
             href="https://blog.inkdrop.app/how-to-price-yourself-as-a-freelance-developer-3453dfd59d91"
           />
           <GridItem
-            title="I made my React Native app 50x faster"
-            thumbnail={thumb50xFaster}
-            href="https://www.youtube.com/watch?v=vj723NlrIQc"
+            title="ReactJS"
+            thumbnail={thumb500PaidUsers}
+
+            href=""
           />
         </SimpleGrid>
       </Section>
